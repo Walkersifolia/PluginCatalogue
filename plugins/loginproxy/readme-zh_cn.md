@@ -8,9 +8,9 @@
 
 - 插件 ID: `loginproxy`
 - 插件名: LoginProxy
-- 版本: 0.5.3
-  - 元数据版本: 0.5.3
-  - 发布版本: 0.5.3
+- 版本: 0.6.0
+  - 元数据版本: 0.6.0
+  - 发布版本: 0.6.0
 - 总下载量: 250
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/login_proxy_mcdr
@@ -23,7 +23,7 @@
 | 插件 ID | 依赖需求 |
 | --- | --- |
 | [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.3.0 |
-| [kpi](/plugins/kpi/readme-zh_cn.md) | ~1.4.5 |
+| [kpi](/plugins/kpi/readme-zh_cn.md) | ~1.4.6 |
 
 ### 包依赖
 
@@ -40,6 +40,7 @@
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
+| [LoginProxy-v0.6.0.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.6.0) | 0.6.0 | 2023/06/08 18:47:46 | 29.51KB | 0 | [下载](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.6.0/LoginProxy-v0.6.0.mcdr) |
 | [LoginProxy-v0.5.3.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.5.3) | 0.5.3 | 2023/03/04 00:14:20 | 25.14KB | 74 | [下载](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.5.3/LoginProxy-v0.5.3.mcdr) |
 | [LoginProxy-v0.5.2.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.5.2) | 0.5.2 | 2023/03/01 19:18:15 | 24.15KB | 6 | [下载](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.5.2/LoginProxy-v0.5.2.mcdr) |
 | [LoginProxy-v0.5.1.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.5.1) | 0.5.1 | 2022/12/28 01:52:08 | 23.06KB | 73 | [下载](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.5.1/LoginProxy-v0.5.1.mcdr) |
