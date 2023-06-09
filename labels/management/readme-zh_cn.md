@@ -17,7 +17,7 @@
 | [HibernateR](/plugins/hibernate_r/readme-zh_cn.md) | [HIM049](https://github.com/HIM049), [sout_Nantang](https://github.com/sout233) | 一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器 | 2023/02/15 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [hooks](/plugins/hooks/readme-zh_cn.md) | [OptiJava](https://github.com/OptiJava) | 让MCDR按照指定的规则自动触发脚本，全自动执行任务 | 2023/06/06 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Lite File Manager](/plugins/lite_file_manager/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个轻量级的游戏内文件管理器 | 2021/08/26 | [`管理`](/labels/management/readme-zh_cn.md) |
-| [LoginProxy](/plugins/loginproxy/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个Minecraft服务器登录代理兼白名单插件 | 2023/06/08 | [`管理`](/labels/management/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
+| [LoginProxy](/plugins/loginproxy/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个Minecraft服务器登录代理兼白名单插件 | 2023/06/09 | [`管理`](/labels/management/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [Lowercase MCDR Command](/plugins/lowercase_mcdr_command/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 小写的 `!!MCDR` 指令 | 2023/01/30 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [MCDReforged Plugin Manager](/plugins/mcdreforged_plugin_manager/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 轻松管理你的 MCDReforged 插件 | 2023/04/14 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Mirror Control](/plugins/mirror_control/readme-zh_cn.md) | [Chara_SS](https://github.com/charassss/) | 一个控制镜像服务器的插件 | 2022/12/13 | [`管理`](/labels/management/readme-zh_cn.md) |
