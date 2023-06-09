@@ -2,14 +2,14 @@
   "schema_version": 3,
   "id": "hooks",
   "name": "hooks",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "repository": "https://github.com/OptiJava/hooks",
   "link": "https://github.com/OptiJava/hooks",
   "authors": [
     "OptiJava"
   ],
   "dependencies": {
-    "mcdreforged": ">=2.8.1"
+    "mcdreforged": ">=2.9.0"
   },
   "requirements": [],
   "description": {
