@@ -11,7 +11,7 @@
 - 版本: 1.9.0
   - 元数据版本: 1.9.0
   - 发布版本: 1.9.0
-- 总下载量: 10651
+- 总下载量: 10655
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/QuickBackupM
 - 仓库插件页: https://github.com/TISUnion/QuickBackupM/tree/master
@@ -47,7 +47,7 @@
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [QuickBackupM-v1.9.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.9.0) | 1.9.0 | 2023/05/10 17:55:42 | 22.98KB | 289 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.9.0/QuickBackupM-v1.9.0.mcdr) |
+| [QuickBackupM-v1.9.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.9.0) | 1.9.0 | 2023/05/10 17:55:42 | 22.98KB | 291 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.9.0/QuickBackupM-v1.9.0.mcdr) |
 | [QuickBackupM-v1.8.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.8.0) | 1.8.0 | 2023/03/13 18:58:51 | 22.45KB | 481 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.8.0/QuickBackupM-v1.8.0.mcdr) |
 | [QuickBackupM-v1.7.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.7.0) | 1.7.0 | 2022/10/03 04:13:26 | 21.89KB | 1621 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.7.0/QuickBackupM-v1.7.0.mcdr) |
 | [QuickBackupM-v1.6.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.6.0) | 1.6.0 | 2022/03/11 07:56:09 | 21.55KB | 1615 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.6.0/QuickBackupM-v1.6.0.mcdr) |
@@ -57,5 +57,5 @@
 | [QuickBackupM-v1.4.2.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.2) | 1.4.2 | 2021/08/29 15:35:41 | 21.73KB | 1605 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.2/QuickBackupM-v1.4.2.mcdr) |
 | [QuickBackupM-v1.4.1.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.1) | 1.4.1 | 2021/08/27 09:44:34 | 21.72KB | 1346 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.1/QuickBackupM-v1.4.1.mcdr) |
 | [QuickBackupM-v1.3.3.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.3.3) | 1.3.3 | 2021/08/24 16:01:43 | 21.09KB | 1343 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.3.3/QuickBackupM-v1.3.3.mcdr) |
-| [QuickBackupM-v1.2.2.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.2.2) | 1.2.2 | 2021/08/16 17:06:50 | 20.84KB | 1418 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.2.2/QuickBackupM-v1.2.2.mcdr) |
+| [QuickBackupM-v1.2.2.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.2.2) | 1.2.2 | 2021/08/16 17:06:50 | 20.84KB | 1420 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.2.2/QuickBackupM-v1.2.2.mcdr) |
 
