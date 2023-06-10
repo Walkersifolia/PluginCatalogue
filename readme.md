@@ -20,7 +20,7 @@ Plugin Amount: 95
 | [AdvancedCalculator](/plugins/advanced_calculator/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Provides multiple convenient in-game calculations | 2023/01/19 | [`Tool`](/labels/tool/readme.md) |
 | [AdvancedWhitelistR](/plugins/advanced_whitelist_r/readme.md) | [noionion](https://github.com/2X-ercha), [GamerNoTitle](https://github.com/GamerNoTitle) | For outline-model Whitelist | 2023/01/04 | [`Management`](/labels/management/readme.md) |
 | [allow_suicide](/plugins/allow_suicide/readme.md) | [JAs0n](https://github.com/JAs0n319) | allow player suicide with no op | 2023/02/03 | [`Tool`](/labels/tool/readme.md) |
-| [Auto Command](/plugins/auto_command/readme.md) | [bzyyyyyyyy](https://github.com/bzyyyyyyyy) | A plugin that send send commands automaticly | 2023/06/08 | [`Tool`](/labels/tool/readme.md) |
+| [Auto Command](/plugins/auto_command/readme.md) | [bzyyyyyyyy](https://github.com/bzyyyyyyyy) | A plugin that send send commands automaticly | 2023/06/10 | [`Tool`](/labels/tool/readme.md) |
 | [Auto Plugin Reloader](/plugins/auto_plugin_reloader/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Automatically reload plugins when file changes | 2021/10/01 | [`Management`](/labels/management/readme.md) |
 | [Beep](/plugins/beep/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi) | Use @ \<someone\> to ping someone, @ all for everyone. Use @@ for a pogger ping | 2021/08/26 | [`Tool`](/labels/tool/readme.md) |
 | [Bingo](/plugins/bingo/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Useful tool for Bingo game | 2023/02/26 | [`Tool`](/labels/tool/readme.md) |

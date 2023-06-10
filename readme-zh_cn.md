@@ -20,7 +20,7 @@
 | [AdvancedCalculator](/plugins/advanced_calculator/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 提供游戏内多种便捷计算 | 2023/01/19 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [AdvancedWhitelistR](/plugins/advanced_whitelist_r/readme-zh_cn.md) | [noionion](https://github.com/2X-ercha), [GamerNoTitle](https://github.com/GamerNoTitle) | For outline-model Whitelist | 2023/01/04 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [allow_suicide](/plugins/allow_suicide/readme-zh_cn.md) | [JAs0n](https://github.com/JAs0n319) | 允许玩家在没有op权限时自杀 | 2023/02/03 | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [Auto Command](/plugins/auto_command/readme-zh_cn.md) | [bzyyyyyyyy](https://github.com/bzyyyyyyyy) | 自动发送指令的插件 | 2023/06/08 | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [Auto Command](/plugins/auto_command/readme-zh_cn.md) | [bzyyyyyyyy](https://github.com/bzyyyyyyyy) | 自动发送指令的插件 | 2023/06/10 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Auto Plugin Reloader](/plugins/auto_plugin_reloader/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 在文件变更时自动重载插件 | 2021/10/01 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Beep](/plugins/beep/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi) | @某人，@ all可作用于所有玩家。使用两个@@小心被打 | 2021/08/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Bingo](/plugins/bingo/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Bingo 游戏实用工具 | 2023/02/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
