@@ -9,7 +9,8 @@
     "bzyyyyyyyy"
   ],
   "dependencies": {
-    "mcdreforged": ">=2.1.0"
+    "mcdreforged": ">=2.1.0",
+    "minecraft_data_api": "*"
   },
   "requirements": [
     "mcdreforged>=2.1.0"
