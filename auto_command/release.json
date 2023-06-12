@@ -121,45 +121,6 @@
           "zh_cn": "自动发送指令的插件"
         }
       }
-    },
-    {
-      "url": "https://github.com/bzyyyyyyyy/MCDR-AutoCommand/releases/tag/v1.0.0",
-      "name": "AutoCommand v1.0.0",
-      "tag_name": "v1.0.0",
-      "created_at": "2023-06-08T04:38:53Z",
-      "assets": [
-        {
-          "name": "AutoCommand-v1.0.0.mcdr",
-          "size": 21964,
-          "download_count": 0,
-          "created_at": "2023-06-08T06:30:33Z",
-          "browser_download_url": "https://github.com/bzyyyyyyyy/MCDR-AutoCommand/releases/download/v1.0.0/AutoCommand-v1.0.0.mcdr"
-        }
-      ],
-      "description": "N/A",
-      "prerelease": false,
-      "parsed_version": "1.0.0",
-      "meta": {
-        "schema_version": 3,
-        "id": "auto_command",
-        "name": "Auto Command",
-        "version": "1.0.0",
-        "repository": "https://github.com/bzyyyyyyyy/MCDR-AutoCommand",
-        "link": "https://github.com/bzyyyyyyyy/MCDR-AutoCommand",
-        "authors": [
-          "bzyyyyyyyy"
-        ],
-        "dependencies": {
-          "mcdreforged": ">=2.1.0"
-        },
-        "requirements": [
-          "mcdreforged>=2.1.0"
-        ],
-        "description": {
-          "en_us": "A plugin that send send commands automaticly",
-          "zh_cn": "自动发送指令的插件"
-        }
-      }
     }
   ]
 }
