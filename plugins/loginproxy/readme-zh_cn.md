@@ -11,7 +11,7 @@
 - 版本: 0.6.1
   - 元数据版本: 0.6.1
   - 发布版本: 0.6.1
-- 总下载量: 269
+- 总下载量: 270
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/login_proxy_mcdr
 - 仓库插件页: https://github.com/kmcsr/login_proxy_mcdr/tree/master
@@ -51,7 +51,7 @@
 | [LoginProxy-v0.4.2.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.4.2) | 0.4.2 | 2022/12/24 05:31:31 | 22.74KB | 4 | [下载](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.4.2/LoginProxy-v0.4.2.mcdr) |
 | [LoginProxy-v0.4.1.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.4.1) | 0.4.1 | 2022/12/24 05:17:19 | 22.74KB | 3 | [下载](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.4.1/LoginProxy-v0.4.1.mcdr) |
 | [LoginProxy-v0.4.0.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.4.0) | 0.4.0 | 2022/11/25 08:00:14 | 22.72KB | 38 | [下载](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.4.0/LoginProxy-v0.4.0.mcdr) |
-| [LoginProxy-v0.3.5.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.3.5) | 0.3.5 | 2022/11/20 21:06:17 | 22.83KB | 5 | [下载](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.3.5/LoginProxy-v0.3.5.mcdr) |
+| [LoginProxy-v0.3.5.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.3.5) | 0.3.5 | 2022/11/20 21:06:17 | 22.83KB | 6 | [下载](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.3.5/LoginProxy-v0.3.5.mcdr) |
 | [LoginProxy-v0.3.4.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.3.4) | 0.3.4 | 2022/11/20 20:34:13 | 22.85KB | 5 | [下载](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.3.4/LoginProxy-v0.3.4.mcdr) |
 | [LoginProxy-v0.3.3.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.3.3) | 0.3.3 | 2022/11/20 20:00:17 | 22.85KB | 4 | [下载](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.3.3/LoginProxy-v0.3.3.mcdr) |
 | [LoginProxy-v0.3.2.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.3.2) | 0.3.2 | 2022/11/20 19:02:39 | 22.73KB | 5 | [下载](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.3.2/LoginProxy-v0.3.2.mcdr) |
