@@ -15,7 +15,7 @@ Use `ctrl-f` to performance an in-page search, for what you are interested in
 - Version: 0.3.1
   - Metadata version: 0.3.1
   - Release version: 0.3.1
-- Total downloads: 829
+- Total downloads: 593
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/advanced_calculator
@@ -57,8 +57,8 @@ Use `ctrl-f` to performance an in-page search, for what you are interested in
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
 | [AdvancedCalculator-v0.3.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.3.1) | 0.3.1 | 2023/01/19 17:01:07 | 2.46KB | 363 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/advanced_calculator-v0.3.1/AdvancedCalculator-v0.3.1.mcdr) |
-| [AdvancedCalculator-v0.3.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.3.0) | 0.3.0 | 2022/10/21 20:03:33 | 2.42KB | 236 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/advanced_calculator-v0.3.0/AdvancedCalculator-v0.3.0.mcdr) |
 | [AdvancedCalculator-v0.2.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.2.1) | 0.2.1 | 2022/07/21 13:20:06 | 2.38KB | 179 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/advanced_calculator-v0.2.1/AdvancedCalculator-v0.2.1.mcdr) |
+| [AdvancedCalculator-v0.2.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.2.0) | 0.2.0 | 2022/07/18 11:47:23 | 2.27KB | 51 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/advanced_calculator-v0.2.0/AdvancedCalculator-v0.2.0.mcdr) |
 
 ## advanced_whitelist_r
 
@@ -731,7 +731,7 @@ When the server starts, it automatically uses Cato (P2P connection tool) for por
 - Version: 2.5.1
   - Metadata version: 2.5.1
   - Release version: 2.5.1
-- Total downloads: 1984
+- Total downloads: 1985
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/ChatBridge
 - Repository plugin page: https://github.com/TISUnion/ChatBridge/tree/master
@@ -762,7 +762,7 @@ Chatbridge v2
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.5.1) | 2.5.1 | 2023/04/04 15:28:53 | 40.63KB | 167 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.5.1/ChatBridge.pyz) |
+| [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.5.1) | 2.5.1 | 2023/04/04 15:28:53 | 40.63KB | 168 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.5.1/ChatBridge.pyz) |
 | [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.5.0) | 2.5.0 | 2023/03/13 19:01:44 | 41.09KB | 77 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.5.0/ChatBridge.pyz) |
 | [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.4.1) | 2.4.1 | 2023/02/27 18:19:47 | 40.68KB | 72 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.4.1/ChatBridge.pyz) |
 
@@ -2569,7 +2569,7 @@ MCDR Bot powered by [pyCraft](https://github.com/ammaraskar/pyCraft), works for 
 - Version: 2.0.0
   - Metadata version: 2.0.0
   - Release version: 2.0.0
-- Total downloads: 757
+- Total downloads: 758
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/MCDReforgedPluginManager
 - Repository plugin page: https://github.com/Ivan-1F/MCDReforgedPluginManager/tree/master
@@ -2599,7 +2599,7 @@ MCDR Bot powered by [pyCraft](https://github.com/ammaraskar/pyCraft), works for 
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MCDReforgedPluginManager-v2.0.0.mcdr](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v2.0.0) | 2.0.0 | 2023/04/14 16:46:28 | 22.64KB | 103 | [Download](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v2.0.0/MCDReforgedPluginManager-v2.0.0.mcdr) |
+| [MCDReforgedPluginManager-v2.0.0.mcdr](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v2.0.0) | 2.0.0 | 2023/04/14 16:46:28 | 22.64KB | 104 | [Download](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v2.0.0/MCDReforgedPluginManager-v2.0.0.mcdr) |
 | [MCDReforgedPluginManager-v1.3.3.mcdr](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.3.3) | 1.3.3 | 2023/04/02 14:32:45 | 21.79KB | 41 | [Download](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.3.3/MCDReforgedPluginManager-v1.3.3.mcdr) |
 | [MCDReforgedPluginManager-v1.3.2.mcdr](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.3.2) | 1.3.2 | 2023/02/20 13:52:39 | 21.6KB | 91 | [Download](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.3.2/MCDReforgedPluginManager-v1.3.2.mcdr) |
 
@@ -2893,7 +2893,7 @@ config.json
 - Version: 1.0.7
   - Metadata version: 1.0.7
   - Release version: 1.0.7
-- Total downloads: 922
+- Total downloads: 924
 - Authors: [GamerNoTitle](https://github.com/GamerNoTitle)
 - Repository: https://github.com/EMUnion/MirrorServerReforged
 - Repository plugin page: https://github.com/EMUnion/MirrorServerReforged/tree/master
@@ -2985,7 +2985,7 @@ Now, I'll introduce the content of the config file:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MirrorServerReforged-v1.0.7.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.7) | 1.0.7 | 2023/02/24 03:17:23 | 15.6KB | 192 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.7/MirrorServerReforged-v1.0.7.mcdr) |
+| [MirrorServerReforged-v1.0.7.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.7) | 1.0.7 | 2023/02/24 03:17:23 | 15.6KB | 194 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.7/MirrorServerReforged-v1.0.7.mcdr) |
 | [MirrorServerReforged-v1.0.6.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.6) | 1.0.6 | 2023/02/23 07:25:33 | 15.48KB | 32 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.6/MirrorServerReforged-v1.0.6.mcdr) |
 | [MirrorServerReforged-v1.0.5.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.5) | 1.0.5 | 2023/02/05 14:09:32 | 8.61KB | 47 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.5/MirrorServerReforged-v1.0.5.mcdr) |
 
@@ -3979,7 +3979,7 @@ example:
 - Version: 1.9.0
   - Metadata version: 1.9.0
   - Release version: 1.9.0
-- Total downloads: 10765
+- Total downloads: 10767
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/QuickBackupM
 - Repository plugin page: https://github.com/TISUnion/QuickBackupM/tree/master
@@ -4015,7 +4015,7 @@ Features:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [QuickBackupM-v1.9.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.9.0) | 1.9.0 | 2023/05/10 17:55:42 | 22.98KB | 371 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.9.0/QuickBackupM-v1.9.0.mcdr) |
+| [QuickBackupM-v1.9.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.9.0) | 1.9.0 | 2023/05/10 17:55:42 | 22.98KB | 373 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.9.0/QuickBackupM-v1.9.0.mcdr) |
 | [QuickBackupM-v1.8.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.8.0) | 1.8.0 | 2023/03/13 18:58:51 | 22.45KB | 482 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.8.0/QuickBackupM-v1.8.0.mcdr) |
 | [QuickBackupM-v1.7.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.7.0) | 1.7.0 | 2022/10/03 04:13:26 | 21.89KB | 1624 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.7.0/QuickBackupM-v1.7.0.mcdr) |
 
@@ -4653,7 +4653,7 @@ Only matches the IP address received by the server and player name, and the play
 - Version: 1.3.0
   - Metadata version: 1.3.0
   - Release version: 1.3.0
-- Total downloads: 3686
+- Total downloads: 3688
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/TimedQBM
 - Repository plugin page: https://github.com/TISUnion/TimedQBM/tree/master
@@ -4681,7 +4681,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [TimedQBM-v1.3.0.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.3.0) | 1.3.0 | 2023/03/26 04:25:52 | 17.84KB | 357 | [Download](https://github.com/TISUnion/TimedQBM/releases/download/v1.3.0/TimedQBM-v1.3.0.mcdr) |
+| [TimedQBM-v1.3.0.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.3.0) | 1.3.0 | 2023/03/26 04:25:52 | 17.84KB | 359 | [Download](https://github.com/TISUnion/TimedQBM/releases/download/v1.3.0/TimedQBM-v1.3.0.mcdr) |
 | [TimedQBM-v1.2.0.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.2.0) | 1.2.0 | 2023/01/24 16:36:46 | 17.61KB | 288 | [Download](https://github.com/TISUnion/TimedQBM/releases/download/v1.2.0/TimedQBM-v1.2.0.mcdr) |
 | [TimedQBM-v1.1.0.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.1.0) | 1.1.0 | 2022/03/05 06:45:06 | 16.95KB | 1251 | [Download](https://github.com/TISUnion/TimedQBM/releases/download/v1.1.0/TimedQBM-v1.1.0.mcdr) |
 
