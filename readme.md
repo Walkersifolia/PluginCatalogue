@@ -42,7 +42,7 @@ Plugin Amount: 95
 | [Delay Exe](/plugins/delayexe/readme.md) | [zyxkad](https://github.com/zyxkad) | Delay execute command until all player have left | 2022/11/25 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [Diamond Calculator](/plugins/diamond_calc/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | *None* | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Dict Command Registration](/plugins/dict_command_registration/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Register your command by a python dict | 2023/01/15 | [`API`](/labels/api/readme.md) |
-| [Easy Bot Manager](/plugins/easy_bot_manager/readme.md) | [LiuTed](https://github.com/LiuTed) | Easy-to-use Carpet Bot Manager Plugin | 2022/06/23 | [`Tool`](/labels/tool/readme.md) |
+| [Easy Bot Manager](/plugins/easy_bot_manager/readme.md) | [LiuTed](https://github.com/LiuTed) | Easy-to-use Carpet Bot Manager Plugin | 2022/05/24 | [`Tool`](/labels/tool/readme.md) |
 | [EULAgree](/plugins/eulagree/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | I always agree with EULA, don't ask me | 2022/12/09 | [`Tool`](/labels/tool/readme.md) |
 | [Faster Transfer](/plugins/faster_transfer/readme.md) | [Alex3236](https://github.com/alex3236) | :rocket: Make web? file transfers faster! | 2021/10/04 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [Gamemode](/plugins/gamemode/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Change to spectator mode for observe, teleport to origin position when change back to survival mode | 2023/03/18 | [`Tool`](/labels/tool/readme.md) |
