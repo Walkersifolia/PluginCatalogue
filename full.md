@@ -4754,7 +4754,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 - Version: 0.3.4
   - Metadata version: 0.3.4
   - Release version: 0.3.4
-- Total downloads: 170
+- Total downloads: 171
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/tpmanager_mcdr
 - Repository plugin page: https://github.com/kmcsr/tpmanager_mcdr/tree/master
@@ -4890,7 +4890,7 @@ Send welcome message
 - Version: 2.0.2
   - Metadata version: 2.0.2+build.6
   - Release version: 2.0.2
-- Total downloads: 1358
+- Total downloads: 1359
 - Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/Lazy-Bing-Server/WhereIs-MCDR
 - Repository plugin page: https://github.com/Lazy-Bing-Server/WhereIs-MCDR/tree/master

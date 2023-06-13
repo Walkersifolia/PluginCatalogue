@@ -4818,7 +4818,7 @@ Only matches the IP address received by the server and player name, and the play
 - 版本: 0.3.4
   - 元数据版本: 0.3.4
   - 发布版本: 0.3.4
-- 总下载量: 170
+- 总下载量: 171
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/tpmanager_mcdr
 - 仓库插件页: https://github.com/kmcsr/tpmanager_mcdr/tree/master
@@ -4954,7 +4954,7 @@ Only matches the IP address received by the server and player name, and the play
 - 版本: 2.0.2
   - 元数据版本: 2.0.2+build.6
   - 发布版本: 2.0.2
-- 总下载量: 1358
+- 总下载量: 1359
 - 作者: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/Lazy-Bing-Server/WhereIs-MCDR
 - 仓库插件页: https://github.com/Lazy-Bing-Server/WhereIs-MCDR/tree/master
