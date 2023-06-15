@@ -2,7 +2,7 @@
   "schema_version": 3,
   "id": "auto_command",
   "name": "Auto Command",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "repository": "https://github.com/bzyyyyyyyy/MCDR-AutoCommand",
   "link": "https://github.com/bzyyyyyyyy/MCDR-AutoCommand",
   "authors": [
