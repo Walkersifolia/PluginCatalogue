@@ -11,7 +11,7 @@
 - Version: 1.3.0
   - Metadata version: 1.3.0
   - Release version: 1.3.0
-- Total downloads: 339
+- Total downloads: 340
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/delayexe_mcdr
 - Repository plugin page: https://github.com/kmcsr/delayexe_mcdr/tree/master
@@ -48,5 +48,5 @@
 | [DelayExe-v1.0.3.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.0.3) | 1.0.3 | 2022/01/07 05:38:57 | 3.59KB | 23 | [Download](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.0.3/DelayExe-v1.0.3.mcdr) |
 | [DelayExe-v1.0.2.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.0.2) | 1.0.2 | 2022/01/07 01:30:16 | 3.58KB | 2 | [Download](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.0.2/DelayExe-v1.0.2.mcdr) |
 | [DelayExe-v1.0.1.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.0.1) | 1.0.1 | 2022/01/05 23:36:47 | 3.37KB | 3 | [Download](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.0.1/DelayExe-v1.0.1.mcdr) |
-| [DelayExe-v1.0.0.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.0.0) | 1.0.0 | 2022/01/05 22:42:57 | 3.32KB | 3 | [Download](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.0.0/DelayExe-v1.0.0.mcdr) |
+| [DelayExe-v1.0.0.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.0.0) | 1.0.0 | 2022/01/05 22:42:57 | 3.32KB | 4 | [Download](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.0.0/DelayExe-v1.0.0.mcdr) |
 
