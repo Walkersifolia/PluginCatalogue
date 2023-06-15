@@ -13,7 +13,7 @@ Full plugin information document [here](./full.md)
 
 -------
 
-Plugin Amount: 95
+Plugin Amount: 96
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -79,6 +79,7 @@ Plugin Amount: 95
 | [MultiRconAPI](/plugins/multi_rcon_api/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | An api to make it easier to control group server by rcon. | 2022/02/02 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [multi_whitelist](/plugins/multi_whitelist/readme.md) | [Ricky](https://github.com/R1ckyH) | A plugin can control whitelist with multi servers. | 2021/10/26 | [`Management`](/labels/management/readme.md) |
 | [OfflineWhitelist](/plugins/offline_whitelist/readme.md) | [skuzow](https://github.com/skuzow) | Offline whitelist helper | 2022/07/11 | [`Management`](/labels/management/readme.md) |
+| [OfflineWhitelistReforged](/plugins/offline_whitelist_reforged/readme.md) | [Aimerny](https://github.com/Aimerny) | A whitelist plugin in offline server | 2023/06/15 | [`Management`](/labels/management/readme.md) |
 | [OneBot API](/plugins/onebot_api/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | OneBot in MCDReforged | 2022/11/16 | [`API`](/labels/api/readme.md) |
 | [Online](/plugins/online/readme.md) | [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu) | Display the online players for Group server, with click event to quickly join every sub-server. | 2021/09/07 | [`Information`](/labels/information/readme.md) |
 | [OnlinePlayerAPI](/plugins/online_player_api/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Online Player API | 2023/02/03 | [`API`](/labels/api/readme.md) |

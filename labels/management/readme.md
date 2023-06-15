@@ -6,7 +6,7 @@
 
 Plugin Index with label `Management`
 
-Plugin Amount: 28
+Plugin Amount: 29
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -27,6 +27,7 @@ Plugin Amount: 28
 | [Mount](/plugins/mount/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | Mount different minecraft server into a mcdr server, with overwritten properties! | 2023/02/20 | [`Management`](/labels/management/readme.md) |
 | [multi_whitelist](/plugins/multi_whitelist/readme.md) | [Ricky](https://github.com/R1ckyH) | A plugin can control whitelist with multi servers. | 2021/10/26 | [`Management`](/labels/management/readme.md) |
 | [OfflineWhitelist](/plugins/offline_whitelist/readme.md) | [skuzow](https://github.com/skuzow) | Offline whitelist helper | 2022/07/11 | [`Management`](/labels/management/readme.md) |
+| [OfflineWhitelistReforged](/plugins/offline_whitelist_reforged/readme.md) | [Aimerny](https://github.com/Aimerny) | A whitelist plugin in offline server | 2023/06/15 | [`Management`](/labels/management/readme.md) |
 | [Permanent Backup](/plugins/permanent_backup/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A plugin for creating permanent zip world backups | 2021/08/17 | [`Management`](/labels/management/readme.md) |
 | [Player Manager](/plugins/player_manager/readme.md) | [hail122](https://github.com/linstar-fxt) | A MCDReforged plugin to help with managing fake players | 2022/07/08 | [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md) |
 | [QQChat](/plugins/qq_chat/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang), [Aimerny](https://github.com/Aimerny) | Useful Functions with QQ | 2023/05/21 | [`Information`](/labels/information/readme.md), [`Management`](/labels/management/readme.md) |

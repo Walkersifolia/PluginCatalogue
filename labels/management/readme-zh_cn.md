@@ -6,7 +6,7 @@
 
 具有标签 `管理` 的插件的索引
 
-插件数量: 28
+插件数量: 29
 
 | 插件名 | 作者 | 描述 | 最近更新 | 标签 |
 | --- | --- | --- | --- | --- |
@@ -27,6 +27,7 @@
 | [Mount](/plugins/mount/readme-zh_cn.md) | [YehowahLiu](https://github.com/YehowahLiu) | 将不同的MC服务器挂载进入一个mcdr服务器, 同时能够重写服务器配置! | 2023/02/20 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [multi_whitelist](/plugins/multi_whitelist/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 基于minecraft的白名单功能。 | 2021/10/26 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [OfflineWhitelist](/plugins/offline_whitelist/readme-zh_cn.md) | [skuzow](https://github.com/skuzow) | Offline whitelist helper | 2022/07/11 | [`管理`](/labels/management/readme-zh_cn.md) |
+| [OfflineWhitelistReforged](/plugins/offline_whitelist_reforged/readme-zh_cn.md) | [Aimerny](https://github.com/Aimerny) | 离线服的白名单管理插件 | 2023/06/15 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Permanent Backup](/plugins/permanent_backup/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 创建永久的用 zip 压缩的备份 | 2021/08/17 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Player Manager](/plugins/player_manager/readme-zh_cn.md) | [hail122](https://github.com/linstar-fxt) | 帮助你管理假人 | 2022/07/08 | [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md) |
 | [QQChat](/plugins/qq_chat/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang), [Aimerny](https://github.com/Aimerny) | QQ 相关实用功能 | 2023/05/21 | [`信息`](/labels/information/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md) |
