@@ -3,7 +3,7 @@
   "release_pages": [
     {
       "index": 1,
-      "etag": "\"85cc2814e45ce9076a87432100ff21f36e3a8d8a59550db9433130f986358504\"",
+      "etag": "\"043dd0c909de314378169697aca588cb4ac5c960ee99ea6ce3c80d2aab0a7e3c\"",
       "release_tags": [
         "v2.5.1",
         "v2.5.0",
@@ -15,6 +15,7 @@
         "v2.0.4",
         "v2.0.3",
         "v2.0.2",
+        "v2.0.1",
         "v2.0.0"
       ],
       "empty": false
