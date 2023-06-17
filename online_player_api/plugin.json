@@ -11,7 +11,7 @@
     "api"
   ],
   "introduction": {
-    "en_us": "# OnlinePlayerAPI\n\n> 在线玩家API\n>\n> 获取在线玩家列表\n\n## 使用\n\n使用 `!!list` 获取在线玩家列表\n\n## API\n\n`check_online(player)`\n\n如果玩家在线, 返回 `True`\n\n如果玩家不在线, 返回 `False`\n\n`get_player_list()`\n\n返回一个在线玩家的list\n",
-    "zh_cn": "# OnlinePlayerAPI\n\n> 在线玩家API\n>\n> 获取在线玩家列表\n\n## 使用\n\n使用 `!!list` 获取在线玩家列表\n\n## API\n\n`check_online(player)`\n\n如果玩家在线, 返回 `True`\n\n如果玩家不在线, 返回 `False`\n\n`get_player_list()`\n\n返回一个在线玩家的list\n"
+    "en_us": "# OnlinePlayerAPI\n\n> 在线玩家 API\n\n## API\n\n`check_online(player)`\n\n如果玩家在线, 返回 `True`\n\n如果玩家不在线, 返回 `False`\n\n`get_player_list()`\n\n返回一个在线玩家的 list\n",
+    "zh_cn": "# OnlinePlayerAPI\n\n> 在线玩家 API\n\n## API\n\n`check_online(player)`\n\n如果玩家在线, 返回 `True`\n\n如果玩家不在线, 返回 `False`\n\n`get_player_list()`\n\n返回一个在线玩家的 list\n"
   }
 }
