@@ -13,7 +13,7 @@
 
 -------
 
-插件数量: 96
+插件数量: 97
 
 | 插件名 | 作者 | 描述 | 最近更新 | 标签 |
 | --- | --- | --- | --- | --- |
@@ -51,6 +51,7 @@
 | [hooks](/plugins/hooks/readme-zh_cn.md) | [OptiJava](https://github.com/OptiJava) | 让MCDR按照指定的规则自动触发脚本，全自动执行任务 | 2023/06/09 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Info](/plugins/info/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 获取服务器信息 | 2023/02/22 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Join MOTD](/plugins/join_motd/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 当玩家加入游戏时向其发送欢迎信息 | 2022/05/22 | [`信息`](/labels/information/readme-zh_cn.md) |
+| [join MOTD next](/plugins/join_motd_next/readme-zh_cn.md) | [JOZA_ORANGE](https://github.com/JOZA-ORANGE) | 在玩家加入游戏时向其发送更加多样的信息 | 2023/06/19 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Jrrp](/plugins/jrrp/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 《今日人品》 | 2022/08/28 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Jrrps Plg](/plugins/jrrps/readme-zh_cn.md) | [SkyDynamic](https://github.com/SkyDynamic) | 测试今天的运势 | 2022/03/20 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [KPI](/plugins/kpi/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个MCDR插件代码共享库 | 2023/03/03 | [`API`](/labels/api/readme-zh_cn.md) |

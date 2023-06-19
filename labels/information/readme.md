@@ -6,7 +6,7 @@
 
 Plugin Index with label `Information`
 
-Plugin Amount: 19
+Plugin Amount: 20
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -16,6 +16,7 @@ Plugin Amount: 19
 | [Here](/plugins/here/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Broadcast your position and high light yourself | 2021/11/05 | [`Information`](/labels/information/readme.md) |
 | [Info](/plugins/info/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Get server info | 2023/02/22 | [`Information`](/labels/information/readme.md) |
 | [Join MOTD](/plugins/join_motd/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Send player a MOTD when he joins | 2022/05/22 | [`Information`](/labels/information/readme.md) |
+| [join MOTD next](/plugins/join_motd_next/readme.md) | [JOZA_ORANGE](https://github.com/JOZA-ORANGE) | Send more diverse information to players when they join the game | 2023/06/19 | [`Information`](/labels/information/readme.md) |
 | [Let Me Click and Send](/plugins/let_me_click_and_send/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Allowed click to send anything in 1.19 | 2023/02/25 | [`Information`](/labels/information/readme.md) |
 | [Location Marker](/plugins/location_marker/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya) | A server side waypoint manager | 2023/06/06 | [`Information`](/labels/information/readme.md) |
 | [LoginProxy](/plugins/loginproxy/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft login proxy Plugin | 2023/06/09 | [`Management`](/labels/management/readme.md), [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md) |
