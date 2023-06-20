@@ -9,7 +9,7 @@
 - 插件 ID: `mount`
 - 插件名: Mount
 - 版本: 0.2.0
-  - 元数据版本: 0.3.0
+  - 元数据版本: 0.3.0-beta1
   - 发布版本: 0.2.0
 - 总下载量: 142
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
