@@ -61,7 +61,7 @@
         {
           "name": "PCRC.exe",
           "size": 9968864,
-          "download_count": 224,
+          "download_count": 225,
           "created_at": "2022-06-19T10:33:00Z",
           "browser_download_url": "https://github.com/Fallen-Breath/PCRC/releases/download/v1.3.0/PCRC.exe"
         },
@@ -117,7 +117,7 @@
         {
           "name": "PCRC.pyz",
           "size": 103995,
-          "download_count": 145,
+          "download_count": 146,
           "created_at": "2022-03-28T07:00:16Z",
           "browser_download_url": "https://github.com/Fallen-Breath/PCRC/releases/download/v1.2.3/PCRC.pyz"
         }
