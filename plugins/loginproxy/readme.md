@@ -15,7 +15,7 @@
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/login_proxy_mcdr
 - Repository plugin page: https://github.com/kmcsr/login_proxy_mcdr/tree/master
-- Labels: [`Management`](/labels/management/readme.md), [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md)
+- Labels: [`Management`](/labels/management/readme.md), [`API`](/labels/api/readme.md)
 - Description: A Minecraft login proxy Plugin
 
 ### Dependencies
