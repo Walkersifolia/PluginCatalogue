@@ -2,7 +2,7 @@
   "schema_version": 3,
   "id": "mount",
   "name": "Mount",
-  "version": "0.3.0",
+  "version": "0.3.0-beta1",
   "repository": "https://github.com/FAS-Server/Mount",
   "link": "https://github.com/FAS-Server/Mount",
   "authors": [
