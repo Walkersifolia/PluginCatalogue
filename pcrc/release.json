@@ -345,55 +345,6 @@
           "zh_cn": "基于PyCraft的Replay客户端"
         }
       }
-    },
-    {
-      "url": "https://github.com/Fallen-Breath/PCRC/releases/tag/v1.0.0",
-      "name": "PCRC v1.0.0",
-      "tag_name": "v1.0.0",
-      "created_at": "2022-03-07T17:29:32Z",
-      "assets": [
-        {
-          "name": "PCRC.exe",
-          "size": 9669324,
-          "download_count": 21,
-          "created_at": "2022-03-07T17:37:24Z",
-          "browser_download_url": "https://github.com/Fallen-Breath/PCRC/releases/download/v1.0.0/PCRC.exe"
-        },
-        {
-          "name": "PCRC.pyz",
-          "size": 100302,
-          "download_count": 8,
-          "created_at": "2022-03-07T17:37:24Z",
-          "browser_download_url": "https://github.com/Fallen-Breath/PCRC/releases/download/v1.0.0/PCRC.pyz"
-        }
-      ],
-      "description": "- Almost rewritten everything\r\n  - Patches upstream PyCraft in run time instead of maintaing an own folk\r\n  - Use PyCraft's way to handle packet logics\r\n- Minecraft 1.18.2 supports\r\n- Microsoft account supports (#21)\r\n- Pack sources into a .pyz for easier executing\r\n  - Works as a MCDReforged plugin too",
-      "prerelease": false,
-      "parsed_version": "1.0.0",
-      "meta": {
-        "schema_version": 3,
-        "id": "pcrc",
-        "name": "PCRC",
-        "version": "1.0.0",
-        "repository": "https://github.com/Fallen-Breath/PCRC",
-        "link": "https://github.com/Fallen-Breath/PCRC",
-        "authors": [
-          "Fallen_Breath"
-        ],
-        "dependencies": {},
-        "requirements": [
-          "cryptography",
-          "requests",
-          "pynbt",
-          "redbaron",
-          "colorlog",
-          "ruamel.yaml"
-        ],
-        "description": {
-          "en_us": "PyCraft based Replay Client",
-          "zh_cn": "基于PyCraft的Replay客户端"
-        }
-      }
     }
   ]
 }
