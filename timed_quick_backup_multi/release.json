@@ -78,43 +78,6 @@
       }
     },
     {
-      "url": "https://github.com/TISUnion/TimedQBM/releases/tag/v1.1.0",
-      "name": "",
-      "tag_name": "v1.1.0",
-      "created_at": "2022-03-05T06:42:34Z",
-      "assets": [
-        {
-          "name": "TimedQBM-v1.1.0.mcdr",
-          "size": 17356,
-          "download_count": 1259,
-          "created_at": "2022-03-05T06:45:06Z",
-          "browser_download_url": "https://github.com/TISUnion/TimedQBM/releases/download/v1.1.0/TimedQBM-v1.1.0.mcdr"
-        }
-      ],
-      "description": "- Added English supported (#2)",
-      "prerelease": false,
-      "parsed_version": "1.1.0",
-      "meta": {
-        "schema_version": 3,
-        "id": "timed_quick_backup_multi",
-        "name": "Timed QBM",
-        "version": "1.1.0",
-        "repository": "https://github.com/TISUnion/TimedQBM",
-        "link": "https://github.com/TISUnion/TimedQBM",
-        "authors": [
-          "Fallen_Breath"
-        ],
-        "dependencies": {
-          "quick_backup_multi": ">=1.1.0"
-        },
-        "requirements": [],
-        "description": {
-          "en_us": "A Quick-Backup-Multi extension for automatically trigger QBM at given interval",
-          "zh_cn": "一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份"
-        }
-      }
-    },
-    {
       "url": "https://github.com/TISUnion/TimedQBM/releases/tag/v1.0.1",
       "name": "",
       "tag_name": "v1.0.1",
