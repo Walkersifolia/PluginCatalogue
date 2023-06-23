@@ -17,7 +17,7 @@ Plugin Amount: 29
 | [HibernateR](/plugins/hibernate_r/readme.md) | [HIM049](https://github.com/HIM049), [sout_Nantang](https://github.com/sout233) | 一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器 | 2023/02/15 | [`Management`](/labels/management/readme.md) |
 | [hooks](/plugins/hooks/readme.md) | [OptiJava](https://github.com/OptiJava) | Allow MCDR to trigger custom scripts under specific conditions. | 2023/06/09 | [`Management`](/labels/management/readme.md) |
 | [Lite File Manager](/plugins/lite_file_manager/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A lite-weight in-game file manager | 2021/08/26 | [`Management`](/labels/management/readme.md) |
-| [LoginProxy](/plugins/loginproxy/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft login proxy Plugin | 2023/06/09 | [`Management`](/labels/management/readme.md), [`API`](/labels/api/readme.md) |
+| [LoginProxy](/plugins/loginproxy/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft login proxy Plugin | 2023/06/08 | [`Management`](/labels/management/readme.md), [`API`](/labels/api/readme.md) |
 | [Lowercase MCDR Command](/plugins/lowercase_mcdr_command/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Lowercase `!!MCDR` command | 2023/01/30 | [`Management`](/labels/management/readme.md) |
 | [MCDReforged Plugin Manager](/plugins/mcdreforged_plugin_manager/readme.md) | [Ivan1F](https://github.com/Ivan-1F) | Manage your mcdreforged plugins with ease | 2023/04/14 | [`Management`](/labels/management/readme.md) |
 | [Mirror Control](/plugins/mirror_control/readme.md) | [Chara_SS](https://github.com/charassss/) | A plugin to control mirror server | 2022/12/13 | [`Management`](/labels/management/readme.md) |
