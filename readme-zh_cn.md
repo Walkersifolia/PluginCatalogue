@@ -83,7 +83,7 @@
 | [OfflineWhitelistReforged](/plugins/offline_whitelist_reforged/readme-zh_cn.md) | [Aimerny](https://github.com/Aimerny) | 离线服的白名单管理插件 | 2023/06/15 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [OneBot API](/plugins/onebot_api/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | OneBot in MCDReforged | 2022/11/16 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Online](/plugins/online/readme-zh_cn.md) | [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu) | 为群组服展示所有在线玩家, 同时提供了点击事件以便于快速切换子服 | 2021/09/07 | [`信息`](/labels/information/readme-zh_cn.md) |
-| [OnlinePlayerAPI](/plugins/online_player_api/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 在线玩家 API | 2023/02/03 | [`API`](/labels/api/readme-zh_cn.md) |
+| [OnlinePlayerAPI](/plugins/online_player_api/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 在线玩家 API | N/A | [`API`](/labels/api/readme-zh_cn.md) |
 | [PCRC](/plugins/pcrc/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 基于PyCraft的Replay客户端 | 2022/09/30 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Permanent Backup](/plugins/permanent_backup/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 创建永久的用 zip 压缩的备份 | 2021/08/17 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [PlayerLastPlay](/plugins/player_last_play/readme-zh_cn.md) | [Aimerny](https://github.com/Aimerny) | 记录与查询玩家最近游玩时间,方便检查服务器玩家活跃度 | 2023/05/16 | [`信息`](/labels/information/readme-zh_cn.md) |

@@ -24,7 +24,7 @@ Plugin Amount: 17
 | [MoreCommandNodes](/plugins/more_command_nodes/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | More command nodes | 2022/07/18 | [`API`](/labels/api/readme.md) |
 | [MultiRconAPI](/plugins/multi_rcon_api/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | An api to make it easier to control group server by rcon. | 2022/02/02 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [OneBot API](/plugins/onebot_api/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | OneBot in MCDReforged | 2022/11/16 | [`API`](/labels/api/readme.md) |
-| [OnlinePlayerAPI](/plugins/online_player_api/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Online Player API | 2023/02/03 | [`API`](/labels/api/readme.md) |
+| [OnlinePlayerAPI](/plugins/online_player_api/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Online Player API | N/A | [`API`](/labels/api/readme.md) |
 | [QQAPI](/plugins/qq_api/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Connect Minecraft and QQ | 2023/06/08 | [`API`](/labels/api/readme.md) |
 | [UUIDAPI](/plugins/uuid_api/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | UUID API | 2022/06/30 | [`API`](/labels/api/readme.md) |
 
