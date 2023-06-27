@@ -88,7 +88,7 @@ Plugin Amount: 97
 | [Permanent Backup](/plugins/permanent_backup/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A plugin for creating permanent zip world backups | 2021/08/17 | [`Management`](/labels/management/readme.md) |
 | [PlayerLastPlay](/plugins/player_last_play/readme.md) | [Aimerny](https://github.com/Aimerny) | Record player lastime left the server | 2023/05/16 | [`Information`](/labels/information/readme.md) |
 | [Player Manager](/plugins/player_manager/readme.md) | [hail122](https://github.com/linstar-fxt) | A MCDReforged plugin to help with managing fake players | 2022/07/08 | [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md) |
-| [QQAPI](/plugins/qq_api/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Connect Minecraft and QQ | 2023/06/08 | [`API`](/labels/api/readme.md) |
+| [QQAPI](/plugins/qq_api/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Connect Minecraft and QQ | 2023/06/27 | [`API`](/labels/api/readme.md) |
 | [QQChat](/plugins/qq_chat/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang), [Aimerny](https://github.com/Aimerny) | Useful Functions with QQ | 2023/05/21 | [`Information`](/labels/information/readme.md), [`Management`](/labels/management/readme.md) |
 | [Quick Backup Multi](/plugins/quick_backup_multi/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A backup / restore plugin, with multiple backup slot | 2023/05/10 | [`Management`](/labels/management/readme.md) |
 | [quick_run_cmd](/plugins/quick_run_cmd/readme.md) | [Ricky](https://github.com/R1ckyH) | A plugin for run command quickly. | 2021/12/24 | [`Tool`](/labels/tool/readme.md) |

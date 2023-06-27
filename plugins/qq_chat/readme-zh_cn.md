@@ -9,7 +9,7 @@
 - 插件 ID: `qq_chat`
 - 插件名: QQChat
 - 版本: 2.0.0
-  - 元数据版本: 2.0.0
+  - 元数据版本: 2.1.0
   - 发布版本: 2.0.0
 - 总下载量: 340
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang), [Aimerny](https://github.com/Aimerny)
@@ -133,10 +133,7 @@
 
 ## 迁移说明
 
-由于功能升级改动了配置文件，如需将 `v1.0.1` 的配置文件迁移至 `v2.0.0`，并维持原有功能，请参考如下步骤
-
-1. 将 `groups` 属性配置的群组，填入 `message_sync_groups` 中
-2. 删除 `groups` 属性
+您自己想办法吧
 
 ### 下载
 
