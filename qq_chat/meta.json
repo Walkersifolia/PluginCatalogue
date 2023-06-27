@@ -2,7 +2,7 @@
   "schema_version": 3,
   "id": "qq_chat",
   "name": "QQChat",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
   "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api",
   "authors": [

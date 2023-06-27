@@ -1,8 +1,53 @@
 {
   "schema_version": 7,
   "id": "qq_api",
-  "latest_version": "1.2.1",
+  "latest_version": "1.3.0",
   "releases": [
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/qq_api-v1.3.0",
+      "name": "qq_api: v1.3.0",
+      "tag_name": "qq_api-v1.3.0",
+      "created_at": "2023-06-27T03:28:13Z",
+      "assets": [
+        {
+          "name": "QQAPI-v1.3.0.mcdr",
+          "size": 2123,
+          "download_count": 1,
+          "created_at": "2023-06-27T03:28:57Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/qq_api-v1.3.0/QQAPI-v1.3.0.mcdr"
+        },
+        {
+          "name": "QQBridge.zip",
+          "size": 14699,
+          "download_count": 0,
+          "created_at": "2023-06-27T03:33:33Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/qq_api-v1.3.0/QQBridge.zip"
+        }
+      ],
+      "description": "## [1.3.0](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/qq_api-v1.2.1...qq_api-v1.3.0) (2023-06-27)\r\n\r\n\r\n### Features\r\n\r\n* **qq_api:** ✨ add reverse ws support ([a7a718e](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/a7a718e320d7480dfb8f2ce599c1464b4679beb2))\r\n* **qq_api:** ✨ better config ([774b4ed](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/774b4edbfe898787f1aca228bf5360e3ffa72b13))\r\n* **qq_api:** ✨ ignore heartbeat ([e021139](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/e021139238e3f8bd3f9f0fc942354bb2a7be6745))\r\n* **qq_api:** ✨ support WebSocket by QQBridge ([5221eea](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/5221eea420266f741cc296629b71d8e8c761b2d1))\r\n* **qq_api:** 🔊 update logs ([6466204](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/64662042507469aa27a01a78dc0db409b8009ede))\r\n\r\n\r\n### Bug Fixes\r\n\r\n* **qq_api:** 🐛 remove connect message in QQBridge ([38b4832](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/38b4832009f94d7e5a8df3439aad4fdb50c5f24f))\r\n\r\n\r\n### Performance Improvements\r\n\r\n* **qq_api:** 🔇 remove heartbeat event log ([a5d12a1](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/a5d12a1381e34a9efa6f986c67fc8b2fc85adbb6))",
+      "prerelease": false,
+      "parsed_version": "1.3.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "qq_api",
+        "name": "QQAPI",
+        "version": "1.3.0",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "aiocqhttp",
+          "uvicorn==0.20.0"
+        ],
+        "description": {
+          "en_us": "Connect Minecraft and QQ",
+          "zh_cn": "连接 MC 与 QQ"
+        }
+      }
+    },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/qq_api-v1.2.1",
       "name": "qq_api: v1.2.1",
