@@ -3,7 +3,7 @@
   "release_pages": [
     {
       "index": 1,
-      "etag": "\"f3132481f6f40a79a69a6d94d84c05a2e74936f583715416a1f3d565d389644a\"",
+      "etag": "\"3e5c0631af336daf1e3648681b09965e314e5eee3c934585c8aef95e1ffeed8b\"",
       "release_tags": [
         "minecraft_command_register-v1.4.1",
         "minecraft_command_register-v1.4.0",
@@ -14,7 +14,6 @@
         "minecraft_command_register-v1.2.3",
         "minecraft_command_register-v1.2.2",
         "minecraft_command_register-v1.2.1",
-        "minecraft_command_register-v1.2.0",
         "minecraft_command_register-v1.1.1",
         "minecraft_command_register-v1.1.0",
         "minecraft_command_register-v1.0.0"
