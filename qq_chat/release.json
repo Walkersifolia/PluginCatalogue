@@ -1,8 +1,49 @@
 {
   "schema_version": 7,
   "id": "qq_chat",
-  "latest_version": "2.0.0",
+  "latest_version": "2.1.0",
   "releases": [
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/qq_chat-v2.1.0",
+      "name": "qq_chat: v2.1.0",
+      "tag_name": "qq_chat-v2.1.0",
+      "created_at": "2023-06-29T07:57:03Z",
+      "assets": [
+        {
+          "name": "QQChat-v2.1.0.mcdr",
+          "size": 6574,
+          "download_count": 0,
+          "created_at": "2023-06-29T07:57:44Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/qq_chat-v2.1.0/QQChat-v2.1.0.mcdr"
+        }
+      ],
+      "description": "## [2.1.0](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/qq_chat-v2.0.0...qq_chat-v2.1.0) (2023-06-29)\n\n\n### Features\n\n* **qq_chat:** :sparkles: multi server support ([#131](https://github.com/AnzhiZhang/MCDReforgedPlugins/issues/131)) ([a573d0b](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/a573d0b6e83edf55375d2fb7c553a8f830d5eeea))\n\n\n### Bug Fixes\n\n* **qq_chat:** :bug: fix all message which starts with long command prefix returns help msg ([5787d03](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/5787d038c5edd490da16016aeaf4edc0eb4e4d6f))\n* **qq_chat:** :bug: remove forwards config. move forward feature to sync group ([6126ab9](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/6126ab9bd7c266576ed02e99f8262b32bf6a9754))",
+      "prerelease": false,
+      "parsed_version": "2.1.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "qq_chat",
+        "name": "QQChat",
+        "version": "2.1.0",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api",
+        "authors": [
+          "Andy Zhang",
+          "Aimerny"
+        ],
+        "dependencies": {
+          "qq_api": "^1.2.0",
+          "online_player_api": "^1.0.0"
+        },
+        "requirements": [
+          "aiocqhttp"
+        ],
+        "description": {
+          "en_us": "Useful Functions with QQ",
+          "zh_cn": "QQ 相关实用功能"
+        }
+      }
+    },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/qq_chat-v2.0.0",
       "name": "qq_chat: v2.0.0",
