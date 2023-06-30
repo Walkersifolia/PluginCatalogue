@@ -9,7 +9,7 @@
 - 插件 ID: `join_motd_next`
 - 插件名: join MOTD next
 - 版本: 0.1.0
-  - 元数据版本: 0.1.0
+  - 元数据版本: 0.2.0
   - 发布版本: 0.1.0
 - 总下载量: 45
 - 作者: [JOZA_ORANGE](https://github.com/JOZA-ORANGE)
@@ -22,6 +22,7 @@
 
 | 插件 ID | 依赖需求 |
 | --- | --- |
+| [daycount_nbt](/plugins/daycount_nbt/readme-zh_cn.md) | \>=2.2.1 |
 
 ### 包依赖
 

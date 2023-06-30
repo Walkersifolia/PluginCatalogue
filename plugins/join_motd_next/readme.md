@@ -9,7 +9,7 @@
 - Plugin ID: `join_motd_next`
 - Plugin Name: join MOTD next
 - Version: 0.1.0
-  - Metadata version: 0.1.0
+  - Metadata version: 0.2.0
   - Release version: 0.1.0
 - Total downloads: 45
 - Authors: [JOZA_ORANGE](https://github.com/JOZA-ORANGE)
@@ -22,6 +22,7 @@
 
 | Plugin ID | Requirement |
 | --- | --- |
+| [daycount_nbt](/plugins/daycount_nbt/readme.md) | \>=2.2.1 |
 
 ### Requirements
 
