@@ -3,7 +3,7 @@
   "release_pages": [
     {
       "index": 1,
-      "etag": "\"15d7ba8583953c32b228da6ba04075b22549326572ccd287302edc3fb94a36c8\"",
+      "etag": "\"28c3a7abccb9c8746023a9bf71717fccc050cf39a50f9b35648d69a0f5dd0e5b\"",
       "release_tags": [
         "database_api-v0.1.1",
         "database_api-v0.1.0"
