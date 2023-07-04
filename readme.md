@@ -50,7 +50,7 @@ Plugin Amount: 97
 | [HibernateR](/plugins/hibernate_r/readme.md) | [HIM049](https://github.com/HIM049), [sout_Nantang](https://github.com/sout233) | 一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器 | 2023/02/15 | [`Management`](/labels/management/readme.md) |
 | [hooks](/plugins/hooks/readme.md) | [OptiJava](https://github.com/OptiJava) | Allow MCDR to trigger custom scripts under specific conditions. | 2023/06/09 | [`Management`](/labels/management/readme.md) |
 | [Info](/plugins/info/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Get server info | 2023/02/22 | [`Information`](/labels/information/readme.md) |
-| [Join MOTD](/plugins/join_motd/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Send player a MOTD when he joins | 2022/05/22 | [`Information`](/labels/information/readme.md) |
+| [Join MOTD](/plugins/join_motd/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Send player a MOTD when he joins | 2021/08/22 | [`Information`](/labels/information/readme.md) |
 | [join MOTD next](/plugins/join_motd_next/readme.md) | [JOZA_ORANGE](https://github.com/JOZA-ORANGE) | Send more diverse information to players when they join the game | 2023/06/19 | [`Information`](/labels/information/readme.md) |
 | [Jrrp](/plugins/jrrp/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 《今日人品》 | 2022/08/28 | [`Tool`](/labels/tool/readme.md) |
 | [Jrrps Plg](/plugins/jrrps/readme.md) | [SkyDynamic](https://github.com/SkyDynamic) | Test today's luck | 2022/03/20 | [`Tool`](/labels/tool/readme.md) |
