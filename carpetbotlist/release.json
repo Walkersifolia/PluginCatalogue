@@ -42,6 +42,44 @@
       }
     },
     {
+      "url": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/tag/v2.1.0",
+      "name": "CarpetBotList-2.1.0 for MCDR-2.x",
+      "tag_name": "v2.1.0",
+      "created_at": "2021-08-16T11:28:38Z",
+      "assets": [
+        {
+          "name": "CarpetBotList-v2.1.0.mcdr",
+          "size": 4181,
+          "download_count": 1362,
+          "created_at": "2021-08-16T11:33:40Z",
+          "browser_download_url": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/download/v2.1.0/CarpetBotList-v2.1.0.mcdr"
+        }
+      ],
+      "description": "- 修复 `Carpet Mod` 指令 `/player xxx shadow` 导致的假人统计异常  \r\n- 使用指令树构建指令  \r\n- 扬了多余的logger",
+      "prerelease": false,
+      "parsed_version": "2.1.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "carpetbotlist",
+        "name": "CarpetBotList",
+        "version": "2.1.0",
+        "repository": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
+        "link": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
+        "authors": [
+          "ZeroKelvin"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.0.0-beta.1",
+          "minecraft_data_api": "*"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Help you manage your carpet fake player",
+          "zh_cn": "帮助你管理地毯端假人"
+        }
+      }
+    },
+    {
       "url": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/tag/v2.0.0",
       "name": "CarpetBotList-2.0.0 for MCDR-2.x",
       "tag_name": "v2.0.0",
