@@ -13,7 +13,7 @@
 
 -------
 
-插件数量: 97
+插件数量: 98
 
 | 插件名 | 作者 | 描述 | 最近更新 | 标签 |
 | --- | --- | --- | --- | --- |
@@ -96,6 +96,7 @@
 | [Renewability](/plugins/renewability/readme-zh_cn.md) | [Fidel Yin](https://github.com/Fidelxyz) | A plugin that allows players to clone non-renewable items | 2021/09/08 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Run Some Commands](/plugins/run_some_commands/readme-zh_cn.md) | [FlyingShuriken](https://github.com/FlyingShuriken) | 讓普通玩家執行已被加入白名單的原版指令 | 2021/08/20 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Seed](/plugins/seed/readme-zh_cn.md) | [OptiJava](https://github.com/OptiJava) | 在没有op权限的情况下获取种子 | 2023/03/23 | [`信息`](/labels/information/readme-zh_cn.md) |
+| [ShowShowWay](/plugins/showshowway/readme-zh_cn.md) | [WhiteXero](https://github.com/WhiteXero) | 获取玩家的头，或者展示手上的物品 | 2023/07/06 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Simple in-game calculator](/plugins/simple_calculator/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个简单的游戏内计算器 | 2021/08/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Simple OP](/plugins/simple_op/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | !!op 以获取op, !!restart 以重启服务器 | 2021/08/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [simple_test](/plugins/simple_test/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 服务器基础自检插件。 | 2021/10/25 | [`信息`](/labels/information/readme-zh_cn.md) |

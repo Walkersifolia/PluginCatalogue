@@ -2229,7 +2229,7 @@ A simplified and reforged version for Leader, allowing to mark a leader.
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 164
+- Total downloads: 165
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/let_me_click_and_send
@@ -2262,7 +2262,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [LetMeClickandSend-v1.0.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/let_me_click_and_send-v1.0.0) | 1.0.0 | 2023/02/25 19:08:54 | 2.31KB | 164 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/let_me_click_and_send-v1.0.0/LetMeClickandSend-v1.0.0.mcdr) |
+| [LetMeClickandSend-v1.0.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/let_me_click_and_send-v1.0.0) | 1.0.0 | 2023/02/25 19:08:54 | 2.31KB | 165 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/let_me_click_and_send-v1.0.0/LetMeClickandSend-v1.0.0.mcdr) |
 
 ## lite_file_manager
 
@@ -4300,6 +4300,45 @@ You don't need to manually specify the seed in the configuration file, the plugi
 | [seed-v1.2.0.mcdr](https://github.com/OptiJava/Seed/releases/tag/v1.2.0) | 1.2.0 | 2023/03/23 13:14:02 | 2.96KB | 240 | [Download](https://github.com/OptiJava/Seed/releases/download/v1.2.0/seed-v1.2.0.mcdr) |
 | [seed-v1.1.0.mcdr](https://github.com/OptiJava/Seed/releases/tag/v1.1.0) | 1.1.0 | 2023/02/26 11:08:24 | 2.89KB | 28 | [Download](https://github.com/OptiJava/Seed/releases/download/v1.1.0/seed-v1.1.0.mcdr) |
 | [seed-v1.0.1.mcdr](https://github.com/OptiJava/Seed/releases/tag/v1.0.1) | 1.0.1 | 2023/02/26 01:41:02 | 2.48KB | 6 | [Download](https://github.com/OptiJava/Seed/releases/download/v1.0.1/seed-v1.0.1.mcdr) |
+
+## showshowway
+
+### Basic Information
+
+- Plugin ID: `showshowway`
+- Plugin Name: ShowShowWay
+- Version: 1.1.0
+  - Metadata version: 1.1.0
+  - Release version: 1.1.0
+- Total downloads: 0
+- Authors: [WhiteXero](https://github.com/WhiteXero)
+- Repository: https://github.com/WhiteXero/ShowShowWay
+- Repository plugin page: https://github.com/WhiteXero/ShowShowWay/tree/main
+- Labels: [`Tool`](/labels/tool/readme.md)
+- Description: 获取玩家的头，或者展示手上的物品
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0 |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+*None*
+
+### Download
+
+> :warning: Warning: Read the README file in plugin repository before using it.
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
+| [ShowShowWay.mcdr](https://github.com/WhiteXero/ShowShowWay/releases/tag/1.1.0) | 1.1.0 | 2023/07/06 10:55:22 | 1.55KB | 0 | [Download](https://github.com/WhiteXero/ShowShowWay/releases/download/1.1.0/ShowShowWay.mcdr) |
 
 ## simple_calculator
 

@@ -6,7 +6,7 @@
 
 具有标签 `工具` 的插件的索引
 
-插件数量: 43
+插件数量: 44
 
 | 插件名 | 作者 | 描述 | 最近更新 | 标签 |
 | --- | --- | --- | --- | --- |
@@ -46,6 +46,7 @@
 | [quick_run_cmd](/plugins/quick_run_cmd/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 一个快速运行自定义脚本的插件。 | 2021/12/24 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Renewability](/plugins/renewability/readme-zh_cn.md) | [Fidel Yin](https://github.com/Fidelxyz) | A plugin that allows players to clone non-renewable items | 2021/09/08 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Run Some Commands](/plugins/run_some_commands/readme-zh_cn.md) | [FlyingShuriken](https://github.com/FlyingShuriken) | 讓普通玩家執行已被加入白名單的原版指令 | 2021/08/20 | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [ShowShowWay](/plugins/showshowway/readme-zh_cn.md) | [WhiteXero](https://github.com/WhiteXero) | 获取玩家的头，或者展示手上的物品 | 2023/07/06 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Simple in-game calculator](/plugins/simple_calculator/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个简单的游戏内计算器 | 2021/08/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Simple OP](/plugins/simple_op/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | !!op 以获取op, !!restart 以重启服务器 | 2021/08/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [SimpleTranslator](/plugins/simple_translator/readme-zh_cn.md) | [skuzow](https://github.com/skuzow) | In-game translator | 2022/07/12 | [`工具`](/labels/tool/readme-zh_cn.md) |
