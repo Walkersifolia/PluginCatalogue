@@ -11,7 +11,7 @@
 - 版本: 2.3.2
   - 元数据版本: 2.3.2
   - 发布版本: 2.3.2
-- 总下载量: 258
+- 总下载量: 261
 - 作者: [SkyDynamic](https://github.com/SkyDynamic)
 - 仓库: https://github.com/SkyDynamic/jrrps
 - 仓库插件页: https://github.com/SkyDynamic/jrrps/tree/master
@@ -40,8 +40,8 @@
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [jrrp2.3.2.mcdr](https://github.com/SkyDynamic/jrrps/releases/tag/2.3.2) | 2.3.2 | 2022/03/20 01:21:46 | 2.71KB | 177 | [下载](https://github.com/SkyDynamic/jrrps/releases/download/2.3.2/jrrp2.3.2.mcdr) |
-| [jrrp2.0.0.mcdr](https://github.com/SkyDynamic/jrrps/releases/tag/2.0.0) | 2.0.0 | 2022/03/12 06:40:17 | 4.65KB | 39 | [下载](https://github.com/SkyDynamic/jrrps/releases/download/2.0.0/jrrp2.0.0.mcdr) |
-| [jrrp.mcdr](https://github.com/SkyDynamic/jrrps/releases/tag/1.1.0) | 1.1.0 | 2022/03/12 02:28:12 | 3.65KB | 39 | [下载](https://github.com/SkyDynamic/jrrps/releases/download/1.1.0/jrrp.mcdr) |
+| [jrrp2.3.2.mcdr](https://github.com/SkyDynamic/jrrps/releases/tag/2.3.2) | 2.3.2 | 2022/03/20 01:21:46 | 2.71KB | 178 | [下载](https://github.com/SkyDynamic/jrrps/releases/download/2.3.2/jrrp2.3.2.mcdr) |
+| [jrrp2.0.0.mcdr](https://github.com/SkyDynamic/jrrps/releases/tag/2.0.0) | 2.0.0 | 2022/03/12 06:40:17 | 4.65KB | 40 | [下载](https://github.com/SkyDynamic/jrrps/releases/download/2.0.0/jrrp2.0.0.mcdr) |
+| [jrrp.mcdr](https://github.com/SkyDynamic/jrrps/releases/tag/1.1.0) | 1.1.0 | 2022/03/12 02:28:12 | 3.65KB | 40 | [下载](https://github.com/SkyDynamic/jrrps/releases/download/1.1.0/jrrp.mcdr) |
 | [jrrp.mcdr](https://github.com/SkyDynamic/jrrps/releases/tag/1.0.0) | 1.0.0 | 2022/03/12 01:03:12 | 2.94KB | 3 | [下载](https://github.com/SkyDynamic/jrrps/releases/download/1.0.0/jrrp.mcdr) |
 
