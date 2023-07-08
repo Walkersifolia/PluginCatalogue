@@ -48,7 +48,7 @@
 | [Gamemode](/plugins/gamemode/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 旁观者模式以旁观，返回生存时传送回原坐标 | 2023/03/18 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Here](/plugins/here/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | 显示坐标并高亮玩家 | 2021/11/05 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [HibernateR](/plugins/hibernate_r/readme-zh_cn.md) | [HIM049](https://github.com/HIM049), [sout_Nantang](https://github.com/sout233) | 一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器 | 2023/02/15 | [`管理`](/labels/management/readme-zh_cn.md) |
-| [hooks](/plugins/hooks/readme-zh_cn.md) | [OptiJava](https://github.com/OptiJava) | 让MCDR按照指定的规则自动触发脚本，全自动执行任务 | 2023/06/09 | [`管理`](/labels/management/readme-zh_cn.md) |
+| [hooks](/plugins/hooks/readme-zh_cn.md) | [OptiJava](https://github.com/OptiJava) | 让MCDR按照指定的规则自动触发脚本，全自动执行任务 | 2023/07/08 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Info](/plugins/info/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 获取服务器信息 | 2023/02/22 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Join MOTD](/plugins/join_motd/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 当玩家加入游戏时向其发送欢迎信息 | 2022/05/22 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [join MOTD next](/plugins/join_motd_next/readme-zh_cn.md) | [JOZA_ORANGE](https://github.com/JOZA-ORANGE) | 在玩家加入游戏时向其发送更加多样的信息 | 2023/06/19 | [`信息`](/labels/information/readme-zh_cn.md) |
