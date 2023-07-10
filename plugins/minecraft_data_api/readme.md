@@ -8,9 +8,9 @@
 
 - Plugin ID: `minecraft_data_api`
 - Plugin Name: Minecraft Data API
-- Version: 1.4.1
-  - Metadata version: 1.4.1
-  - Release version: 1.4.1
+- Version: 1.5.0
+  - Metadata version: 1.5.0
+  - Release version: 1.5.0
 - Total downloads: 5835
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MinecraftDataAPI
@@ -22,7 +22,7 @@
 
 | Plugin ID | Requirement |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-beta.3 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### Requirements
 
@@ -42,5 +42,6 @@ A MCDReforged api plugin to get player data information and more
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
+| [MinecraftDataAPI-v1.5.0.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.5.0) | 1.5.0 | 2023/07/10 18:29:01 | 17.75KB | 0 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.5.0/MinecraftDataAPI-v1.5.0.mcdr) |
 | [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 5835 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
 

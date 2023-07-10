@@ -2763,9 +2763,9 @@ A MCDR plugin for post/teleport items
 
 - Plugin ID: `minecraft_data_api`
 - Plugin Name: Minecraft Data API
-- Version: 1.4.1
-  - Metadata version: 1.4.1
-  - Release version: 1.4.1
+- Version: 1.5.0
+  - Metadata version: 1.5.0
+  - Release version: 1.5.0
 - Total downloads: 5835
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MinecraftDataAPI
@@ -2777,7 +2777,7 @@ A MCDR plugin for post/teleport items
 
 | Plugin ID | Requirement |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-beta.3 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### Requirements
 
@@ -2797,6 +2797,7 @@ A MCDReforged api plugin to get player data information and more
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
+| [MinecraftDataAPI-v1.5.0.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.5.0) | 1.5.0 | 2023/07/10 18:29:01 | 17.75KB | 0 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.5.0/MinecraftDataAPI-v1.5.0.mcdr) |
 | [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 5835 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
 
 ## minecraft_version_api
@@ -2850,7 +2851,7 @@ A MCDReforged api plugin to get player data information and more
 - Version: 1.0.3
   - Metadata version: 1.0.3
   - Release version: 1.0.3
-- Total downloads: 212
+- Total downloads: 216
 - Authors: [Chara_SS](https://github.com/charassss/)
 - Repository: https://github.com/charassss/Mirror-Control
 - Repository plugin page: https://github.com/charassss/Mirror-Control/tree/master
@@ -2922,9 +2923,9 @@ config.json
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MirrorControl-v1.0.3.mcdr](https://github.com/charassss/Mirror-Control/releases/tag/v1.0.3) | 1.0.3 | 2022/12/13 11:07:37 | 4.15KB | 132 | [Download](https://github.com/charassss/Mirror-Control/releases/download/v1.0.3/MirrorControl-v1.0.3.mcdr) |
-| [MirrorControl-v1.0.2.mcdr](https://github.com/charassss/Mirror-Control/releases/tag/v1.0.2) | 1.0.2 | 2022/12/07 09:26:32 | 4.16KB | 29 | [Download](https://github.com/charassss/Mirror-Control/releases/download/v1.0.2/MirrorControl-v1.0.2.mcdr) |
-| [MirrorControl-v1.0.1.mcdr](https://github.com/charassss/Mirror-Control/releases/tag/v1.0.1) | 1.0.1 | 2022/12/06 13:58:40 | 4.14KB | 27 | [Download](https://github.com/charassss/Mirror-Control/releases/download/v1.0.1/MirrorControl-v1.0.1.mcdr) |
+| [MirrorControl-v1.0.3.mcdr](https://github.com/charassss/Mirror-Control/releases/tag/v1.0.3) | 1.0.3 | 2022/12/13 11:07:37 | 4.15KB | 133 | [Download](https://github.com/charassss/Mirror-Control/releases/download/v1.0.3/MirrorControl-v1.0.3.mcdr) |
+| [MirrorControl-v1.0.2.mcdr](https://github.com/charassss/Mirror-Control/releases/tag/v1.0.2) | 1.0.2 | 2022/12/07 09:26:32 | 4.16KB | 30 | [Download](https://github.com/charassss/Mirror-Control/releases/download/v1.0.2/MirrorControl-v1.0.2.mcdr) |
+| [MirrorControl-v1.0.1.mcdr](https://github.com/charassss/Mirror-Control/releases/tag/v1.0.1) | 1.0.1 | 2022/12/06 13:58:40 | 4.14KB | 28 | [Download](https://github.com/charassss/Mirror-Control/releases/download/v1.0.1/MirrorControl-v1.0.1.mcdr) |
 
 ## mirror_server_reforged
 
@@ -4231,7 +4232,7 @@ Allow players to clone non-renewable items.
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 1652
+- Total downloads: 1654
 - Authors: [FlyingShuriken](https://github.com/FlyingShuriken)
 - Repository: https://github.com/FlyingShuriken/MCDR-plugins
 - Repository plugin page: https://github.com/FlyingShuriken/MCDR-plugins/tree/main
@@ -4257,7 +4258,7 @@ Let player run whitelisted vanilla command
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [run_some_commands_v1.0.0.mcdr](https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0) | 1.0.0 | 2021/08/20 14:56:00 | 2.7KB | 1652 | [Download](https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr) |
+| [run_some_commands_v1.0.0.mcdr](https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0) | 1.0.0 | 2021/08/20 14:56:00 | 2.7KB | 1654 | [Download](https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr) |
 
 ## seed
 
@@ -4312,7 +4313,7 @@ You don't need to manually specify the seed in the configuration file, the plugi
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 7
+- Total downloads: 9
 - Authors: [WhiteXero](https://github.com/WhiteXero)
 - Repository: https://github.com/WhiteXero/ShowShowWay
 - Repository plugin page: https://github.com/WhiteXero/ShowShowWay/tree/main
@@ -4340,7 +4341,7 @@ You don't need to manually specify the seed in the configuration file, the plugi
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [ShowShowWay.mcdr](https://github.com/WhiteXero/ShowShowWay/releases/tag/1.1.0) | 1.1.0 | 2023/07/06 10:55:22 | 1.55KB | 7 | [Download](https://github.com/WhiteXero/ShowShowWay/releases/download/1.1.0/ShowShowWay.mcdr) |
+| [ShowShowWay.mcdr](https://github.com/WhiteXero/ShowShowWay/releases/tag/1.1.0) | 1.1.0 | 2023/07/06 10:55:22 | 1.55KB | 9 | [Download](https://github.com/WhiteXero/ShowShowWay/releases/download/1.1.0/ShowShowWay.mcdr) |
 
 ## simple_calculator
 
@@ -5012,7 +5013,7 @@ Send welcome message
 - Version: 2.0.2
   - Metadata version: 2.0.2+build.6
   - Release version: 2.0.2
-- Total downloads: 1549
+- Total downloads: 1551
 - Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/Lazy-Bing-Server/WhereIs-MCDR
 - Repository plugin page: https://github.com/Lazy-Bing-Server/WhereIs-MCDR/tree/master
@@ -5042,7 +5043,7 @@ Send welcome message
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [WhereIs-v2.0.2+build.6.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.2) | 2.0.2 | 2022/07/20 15:56:45 | 19.47KB | 957 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.2/WhereIs-v2.0.2%2Bbuild.6.mcdr) |
+| [WhereIs-v2.0.2+build.6.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.2) | 2.0.2 | 2022/07/20 15:56:45 | 19.47KB | 959 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.2/WhereIs-v2.0.2%2Bbuild.6.mcdr) |
 | [WhereIs-v2.0.1+build.4.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.1) | 2.0.1 | 2022/07/04 11:22:55 | 19.47KB | 108 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.1/WhereIs-v2.0.1%2Bbuild.4.mcdr) |
 | [WhereIs-v2.0.0+build.3.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.0) | 2.0.0 | 2022/07/03 09:33:15 | 19.47KB | 48 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.0/WhereIs-v2.0.0%2Bbuild.3.mcdr) |
 
