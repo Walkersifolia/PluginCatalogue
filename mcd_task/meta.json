@@ -2,7 +2,7 @@
   "schema_version": 3,
   "id": "mcd_task",
   "name": "Task",
-  "version": "2.3.5+build.67",
+  "version": "2.3.6+build.68",
   "repository": "https://github.com/TISUnion/Task",
   "link": "https://github.com/TISUnion/Task",
   "authors": [
@@ -13,7 +13,10 @@
   "dependencies": {
     "mcdreforged": ">=2.1.3"
   },
-  "requirements": [],
+  "requirements": [
+    "mcdreforged>=2.1.3",
+    "parse"
+  ],
   "description": {
     "en_us": "A plugin to show tasks of project in progress",
     "zh_cn": "用于展示进行中的工程任务的插件"
