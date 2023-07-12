@@ -199,44 +199,6 @@
           "zh_cn": "连接 MC 与 QQ"
         }
       }
-    },
-    {
-      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/qq_api-v1.0.0",
-      "name": "qq_api: v1.0.0",
-      "tag_name": "qq_api-v1.0.0",
-      "created_at": "2023-02-03T20:15:25Z",
-      "assets": [
-        {
-          "name": "QQAPI-v1.0.0.mcdr",
-          "size": 1404,
-          "download_count": 54,
-          "created_at": "2023-02-03T20:16:02Z",
-          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/qq_api-v1.0.0/QQAPI-v1.0.0.mcdr"
-        }
-      ],
-      "description": "## 1.0.0 (2023-02-03)\n\n\n### Features\n\n* **qq_api:** ✨ use aiocqhttp as sdk ([95c7bae](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/95c7bae7845ebafae14003cbc26e5d12c5717ada))\n\n\n### Bug Fixes\n\n* **qq_api:** ✏️ fix event handler name ([207828c](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/207828c3a67ce894bdbeee77abd41d7c1ab0c332))\n\n\n### Miscellaneous Chores\n\n* **qq_api:** 🔧 update mcdreforged.plugin.json ([8af7c7f](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/8af7c7f9871dd54d9657c41fd38a8224b2d60d31))",
-      "prerelease": false,
-      "parsed_version": "1.0.0",
-      "meta": {
-        "schema_version": 3,
-        "id": "qq_api",
-        "name": "QQAPI",
-        "version": "1.0.0",
-        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api",
-        "authors": [
-          "Andy Zhang"
-        ],
-        "dependencies": {},
-        "requirements": [
-          "aiocqhttp",
-          "uvicorn"
-        ],
-        "description": {
-          "en_us": "Connect Minecraft and QQ",
-          "zh_cn": "连接 MC 与 QQ"
-        }
-      }
     }
   ]
 }
