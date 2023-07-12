@@ -65,6 +65,67 @@
       }
     },
     {
+      "url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.1.1",
+      "name": "0.1.1-release",
+      "tag_name": "0.1.1",
+      "created_at": "2022-03-04T06:07:00Z",
+      "assets": [
+        {
+          "name": "ChatBridgeReforged_cqhttp.py",
+          "size": 39325,
+          "download_count": 28,
+          "created_at": "2022-03-04T06:12:34Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.1/ChatBridgeReforged_cqhttp.py"
+        },
+        {
+          "name": "ChatBridgeReforged_MC.py",
+          "size": 29639,
+          "download_count": 10,
+          "created_at": "2022-03-04T06:12:32Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.1/ChatBridgeReforged_MC.py"
+        },
+        {
+          "name": "ChatBridgeReforged_MC.pyz",
+          "size": 48090,
+          "download_count": 55,
+          "created_at": "2022-03-04T06:12:36Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.1/ChatBridgeReforged_MC.pyz"
+        },
+        {
+          "name": "ChatBridgeReforged_Server.zip",
+          "size": 33384,
+          "download_count": 19,
+          "created_at": "2022-03-04T06:12:50Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.1/ChatBridgeReforged_Server.zip"
+        }
+      ],
+      "description": "# 0.1.0\r\n## Description\r\nAdd new event `on_player_joined` and `on_player_left`\r\nNew cqhttp client\r\n## Changes\r\n### New event\r\n- Add `on_player_joined`\r\n- Add `on_player_left`\r\n### New cqhttp client\r\n- Multi connections in one client\r\n- Can be a plugin that no need to open a new `screen` or `tmux` session now\r\n- `restart guardian` is used now\r\n#### BUGFIX\r\n- Wrong message while reload plugin\r\n- Better viewing when connecting\r\n- Some other improvements\r\n# 0.1.1\r\n#### BUGFIX\r\n- Reload error in cqhttp.py\r\n- Handle UnicodeDeocdeError in server input\r\n- #5 Update requirement.txt",
+      "prerelease": false,
+      "parsed_version": "0.1.1",
+      "meta": {
+        "schema_version": 3,
+        "id": "chatbridgereforged_mc",
+        "name": "ChatBridgeReforged_MC",
+        "version": "0.1.1-dev024",
+        "repository": "https://github.com/R1ckyH/ChatBridgeReforged",
+        "link": "https://github.com/R1ckyH/ChatBridgeReforged",
+        "authors": [
+          "Ricky"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged",
+          "pycryptodomex"
+        ],
+        "description": {
+          "en_us": "Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custom clients).",
+          "zh_cn": "ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多服互联（不是）"
+        }
+      }
+    },
+    {
       "url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.0.2",
       "name": "0.0.2-release",
       "tag_name": "0.0.2",
