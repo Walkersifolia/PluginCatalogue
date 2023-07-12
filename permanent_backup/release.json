@@ -76,6 +76,43 @@
           "zh_cn": "创建永久的用 zip 压缩的备份"
         }
       }
+    },
+    {
+      "url": "https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.1",
+      "name": "",
+      "tag_name": "v1.0.1",
+      "created_at": "2021-08-16T03:01:14Z",
+      "assets": [
+        {
+          "name": "PermanentBackup-v1.0.1.mcdr",
+          "size": 15876,
+          "download_count": 1341,
+          "created_at": "2021-08-16T17:05:01Z",
+          "browser_download_url": "https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.1/PermanentBackup-v1.0.1.mcdr"
+        }
+      ],
+      "description": "N/A",
+      "prerelease": false,
+      "parsed_version": "1.0.1",
+      "meta": {
+        "schema_version": 3,
+        "id": "permanent_backup",
+        "name": "Permanent Backup",
+        "version": "1.0.1",
+        "repository": "https://github.com/MCDReforged/PermanentBackup",
+        "link": "https://github.com/MCDReforged/PermanentBackup",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin for creating permanent zip world backups",
+          "zh_cn": "创建永久的用 zip 压缩的备份"
+        }
+      }
     }
   ]
 }
