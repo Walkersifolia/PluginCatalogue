@@ -3,11 +3,10 @@
   "release_pages": [
     {
       "index": 1,
-      "etag": "\"e0205cee3b171f976fc6588e1fae95e9ffc59541832c9f9ec5482aa29286a70c\"",
+      "etag": "\"3d224cc009dc5dce99445448e89d6567d390dc11fea18be3b5fb9671739004ba\"",
       "release_tags": [
         "qq_chat-v2.1.0",
         "qq_chat-v2.0.0",
-        "qq_chat-v1.0.1",
         "qq_chat-v1.0.0"
       ],
       "empty": false

@@ -86,47 +86,6 @@
       }
     },
     {
-      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/qq_chat-v1.0.1",
-      "name": "qq_chat: v1.0.1",
-      "tag_name": "qq_chat-v1.0.1",
-      "created_at": "2023-02-26T23:52:23Z",
-      "assets": [
-        {
-          "name": "QQChat-v1.0.1.mcdr",
-          "size": 3429,
-          "download_count": 124,
-          "created_at": "2023-02-26T23:53:03Z",
-          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/qq_chat-v1.0.1/QQChat-v1.0.1.mcdr"
-        }
-      ],
-      "description": "## [1.0.1](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/qq_chat-v1.0.0...qq_chat-v1.0.1) (2023-02-26)\n\n\n### Bug Fixes\n\n* **qq_api:** 🐛 use event loop from qq_api ([c9ba896](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/c9ba8966bb2bc9105b3c0fe8b7802b5378e50509))",
-      "prerelease": false,
-      "parsed_version": "1.0.1",
-      "meta": {
-        "schema_version": 3,
-        "id": "qq_chat",
-        "name": "QQChat",
-        "version": "1.0.1",
-        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api",
-        "authors": [
-          "Andy Zhang",
-          "Aimerny"
-        ],
-        "dependencies": {
-          "qq_api": "^1.2.0",
-          "online_player_api": "^1.0.0"
-        },
-        "requirements": [
-          "aiocqhttp"
-        ],
-        "description": {
-          "en_us": "Useful Functions with QQ",
-          "zh_cn": "QQ 相关实用功能"
-        }
-      }
-    },
-    {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/qq_chat-v1.0.0",
       "name": "qq_chat: v1.0.0",
       "tag_name": "qq_chat-v1.0.0",
