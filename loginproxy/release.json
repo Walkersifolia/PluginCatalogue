@@ -422,44 +422,6 @@
       }
     },
     {
-      "url": "https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.3.5",
-      "name": "v0.3.5",
-      "tag_name": "v0.3.5",
-      "created_at": "2022-11-20T21:06:14Z",
-      "assets": [
-        {
-          "name": "LoginProxy-v0.3.5.mcdr",
-          "size": 23375,
-          "download_count": 6,
-          "created_at": "2022-11-20T21:06:17Z",
-          "browser_download_url": "https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.3.5/LoginProxy-v0.3.5.mcdr"
-        }
-      ],
-      "description": "N/A",
-      "prerelease": false,
-      "parsed_version": "0.3.5",
-      "meta": {
-        "schema_version": 3,
-        "id": "loginproxy",
-        "name": "LoginProxy",
-        "version": "0.3.5",
-        "repository": "https://github.com/kmcsr/login_proxy_mcdr",
-        "link": "https://github.com/kmcsr/login_proxy_mcdr",
-        "authors": [
-          "zyxkad"
-        ],
-        "dependencies": {
-          "mcdreforged": ">=2.0.0",
-          "kpi": ">=1.2.0"
-        },
-        "requirements": [],
-        "description": {
-          "en_us": "A Minecraft login proxy Plugin",
-          "zh_cn": "一个Minecraft服务器登录代理兼白名单插件"
-        }
-      }
-    },
-    {
       "url": "https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.3.4",
       "name": "v0.3.4",
       "tag_name": "v0.3.4",
@@ -519,44 +481,6 @@
         "id": "loginproxy",
         "name": "LoginProxy",
         "version": "0.3.3",
-        "repository": "https://github.com/kmcsr/login_proxy_mcdr",
-        "link": "https://github.com/kmcsr/login_proxy_mcdr",
-        "authors": [
-          "zyxkad"
-        ],
-        "dependencies": {
-          "mcdreforged": ">=2.0.0",
-          "kpi": ">=1.2.0"
-        },
-        "requirements": [],
-        "description": {
-          "en_us": "A Minecraft login proxy Plugin",
-          "zh_cn": "一个Minecraft服务器登录代理兼白名单插件"
-        }
-      }
-    },
-    {
-      "url": "https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.3.2",
-      "name": "v0.3.2",
-      "tag_name": "v0.3.2",
-      "created_at": "2022-11-20T19:02:20Z",
-      "assets": [
-        {
-          "name": "LoginProxy-v0.3.2.mcdr",
-          "size": 23280,
-          "download_count": 6,
-          "created_at": "2022-11-20T19:02:39Z",
-          "browser_download_url": "https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.3.2/LoginProxy-v0.3.2.mcdr"
-        }
-      ],
-      "description": "N/A",
-      "prerelease": false,
-      "parsed_version": "0.3.2",
-      "meta": {
-        "schema_version": 3,
-        "id": "loginproxy",
-        "name": "LoginProxy",
-        "version": "0.3.2",
         "repository": "https://github.com/kmcsr/login_proxy_mcdr",
         "link": "https://github.com/kmcsr/login_proxy_mcdr",
         "authors": [
