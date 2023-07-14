@@ -13,7 +13,7 @@ Full plugin information document [here](./full.md)
 
 -------
 
-Plugin Amount: 98
+Plugin Amount: 97
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -55,7 +55,6 @@ Plugin Amount: 98
 | [Jrrp](/plugins/jrrp/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 《今日人品》 | 2022/08/28 | [`Tool`](/labels/tool/readme.md) |
 | [Jrrps Plg](/plugins/jrrps/readme.md) | [SkyDynamic](https://github.com/SkyDynamic) | Test today's luck | 2022/03/20 | [`Tool`](/labels/tool/readme.md) |
 | [KPI](/plugins/kpi/readme.md) | [zyxkad](https://github.com/zyxkad) | A MCDR plugins codes share library | 2023/03/03 | [`API`](/labels/api/readme.md) |
-| [Lazy Teleport](/plugins/lazytp/readme.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | A express gateway between each dimensions | 2021/08/27 | [`Tool`](/labels/tool/readme.md) |
 | [Leader Reforged](/plugins/leader_reforged/readme.md) | [XavierWah](https://github.com/XavierWah) | This is a simplified and reforged version for Leader, allowing to mark a leader. | 2022/04/09 | [`Tool`](/labels/tool/readme.md) |
 | [Let Me Click and Send](/plugins/let_me_click_and_send/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Allowed click to send anything in 1.19 | 2023/02/25 | [`Information`](/labels/information/readme.md) |
 | [Lite File Manager](/plugins/lite_file_manager/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A lite-weight in-game file manager | 2021/08/26 | [`Management`](/labels/management/readme.md) |
