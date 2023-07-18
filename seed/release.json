@@ -77,42 +77,6 @@
       }
     },
     {
-      "url": "https://github.com/OptiJava/Seed/releases/tag/v1.0.1",
-      "name": "Seed v1.0.1",
-      "tag_name": "v1.0.1",
-      "created_at": "2023-02-26T01:33:21Z",
-      "assets": [
-        {
-          "name": "seed-v1.0.1.mcdr",
-          "size": 2539,
-          "download_count": 6,
-          "created_at": "2023-02-26T01:41:02Z",
-          "browser_download_url": "https://github.com/OptiJava/Seed/releases/download/v1.0.1/seed-v1.0.1.mcdr"
-        }
-      ],
-      "description": "1.Add seed cache\r\n2.Use RText instead of tellraw\r\n\r\n**Full Changelog**: https://github.com/OptiJava/Seed/compare/v1.0.0...v1.0.1",
-      "prerelease": false,
-      "parsed_version": "1.0.1",
-      "meta": {
-        "schema_version": 3,
-        "id": "seed",
-        "name": "Seed",
-        "version": "1.0.1",
-        "repository": "https://github.com/OptiJava/Seed",
-        "link": "https://github.com/OptiJava/Seed",
-        "authors": [
-          "OptiJava"
-        ],
-        "dependencies": {
-          "mcdreforged": ">=2.2.0"
-        },
-        "requirements": [],
-        "description": {
-          "en_us": "Get world seed quickly!"
-        }
-      }
-    },
-    {
       "url": "https://github.com/OptiJava/Seed/releases/tag/v1.0.0",
       "name": "Seed v1.0.0",
       "tag_name": "v1.0.0",
