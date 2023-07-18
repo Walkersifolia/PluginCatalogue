@@ -152,6 +152,43 @@
       }
     },
     {
+      "url": "https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.2.1",
+      "name": "v1.2.1",
+      "tag_name": "v1.2.1",
+      "created_at": "2022-01-17T00:20:15Z",
+      "assets": [
+        {
+          "name": "SmartBackup-v1.2.1.mcdr",
+          "size": 11228,
+          "download_count": 31,
+          "created_at": "2022-01-17T00:20:29Z",
+          "browser_download_url": "https://github.com/kmcsr/smart_backup_mcdr/releases/download/v1.2.1/SmartBackup-v1.2.1.mcdr"
+        }
+      ],
+      "description": "N/A",
+      "prerelease": false,
+      "parsed_version": "1.2.1",
+      "meta": {
+        "schema_version": 3,
+        "id": "smart_backup",
+        "name": "SmartBackup",
+        "version": "1.2.1",
+        "repository": "https://github.com/kmcsr/smart_backup_mcdr",
+        "link": "https://github.com/kmcsr/smart_backup_mcdr",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A Minecraft Backup Plugin",
+          "zh_cn": "一个依赖MCDR的备份插件"
+        }
+      }
+    },
+    {
       "url": "https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.2.0",
       "name": "v1.2.0",
       "tag_name": "v1.2.0",
